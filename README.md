@@ -37,6 +37,10 @@ The structure of this repository is:
 
 **assignments/**: Exercises I did to enhace my understanding of python's concepts.
 
+!!!IMPORTANT!!!
+"The solutions in this repository are my own work. AI was used exclusively as a pedagogical tool to define task requirements and explore comparative system behaviors, ensuring a robust and self-authored learning experience."
+
+
 
 
 
